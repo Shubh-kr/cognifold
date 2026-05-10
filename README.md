@@ -1,1 +1,3 @@
 # cognifold
+
+### Intelligence, Unfolded
